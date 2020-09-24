@@ -1,0 +1,2 @@
+class ThirdPartyServiceError(Exception):
+    pass
